@@ -1,5 +1,6 @@
-# meatball-pasta
+# 👋 Hi, I'm Thomas Goldvarg
 
-Hello!
+I'm a Senior Business Analyst with a background in performance marketing, growth analytics, and go-to-market strategy. I build data-driven systems that drive measurable business results – from campaign attribution models to real-time KPI dashboards.
 
-meatball-pasta is the greatest!
+In this portfolio, I document selected personal projects at the intersection of marketing, data, and AI.
+
