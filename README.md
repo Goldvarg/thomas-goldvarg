@@ -2,6 +2,7 @@
 
 Hi! 
 I'm Thomas,
+I'm a marketing and business analytics professional who loves to leverage data for growth and go-to-market strategies.
 here, I showcase various data analysis projects I've worked on.
 
 ## Featured projects:
