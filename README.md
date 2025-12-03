@@ -2,13 +2,16 @@
 
 Hi! 
 I'm Thomas,
-I'm a marketing and business analytics professional who loves to leverage data for growth and go-to-market strategies.
-Here, I showcase various data analysis projects I've worked on.
+I'm a business analytics professional with experience in working with marketing, product and sales teams and data. I love to leverage data for growth and go-to-market strategies.
+Here, I showcase various data analysis projects I've worked on in my free time.
+The more recent projects are done with the help of Claude Code which is am amazing tool when it comes to modelling and programming. I also played around with GitHub CoPilot here and there.
+
 
 ## Featured projects:
   ### Marketing Cockpit (https://github.com/Goldvarg/marketing-cockpit)
-  Includes a Marketing Mix Model (MMM) built with Google's open-source Meridian MMM.
-  Coming soon: A Multi-Touch Attribution Model and Predictive Analytics for channel-based revenue forecasting.
+  I used ChatGPT to create dummy marketing data and worked on the following projects with that data: 
+  - Marketing Mix Model (MMM) built with Google's open-source Meridian MMM.
+  - A Multi-Touch Attribution Model and Predictive Analytics for channel-based revenue forecasting.
 
 
 ### Connect with me on LinkedIn
