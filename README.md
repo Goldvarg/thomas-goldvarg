@@ -13,6 +13,10 @@ The more recent projects are done with the help of Claude Code which is am amazi
   - Marketing Mix Model (MMM) built with Google's open-source Meridian MMM.
   - A Multi-Touch Attribution Model and Predictive Analytics for channel-based revenue forecasting.
 
+  ### Reddit Drama Predictor (https://github.com/Goldvarg/reddit-drama-predictor)
+  I worked with Claude Code to build a ML prediciton model to see if I could predict whether a Reddid post will be judged negatively by the community based on the words in the post. 
+  Built using real data from r/AmITheAsshole (AITA), one of Reddit's most drama-prone subreddits where users describe something they did or that happened to them and ask the community whether in that particular situation they are the asshole. 
+
 
 ### Connect with me on LinkedIn
 https://www.linkedin.com/in/thomas-goldvarg/
